@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Zsolt 👋
 
-<!--
-**zsoltvarga-hu/zsoltvarga-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning into cybersecurity with a focus on Governance, Risk and Compliance (GRC), IT Audit, and Identity and Access Management (IAM).
 
-Here are some ideas to get you started:
+I'm currently completing the Google Cybersecurity Professional Certificate and building practical skills in security fundamentals, risk management, security frameworks, access control, Linux, SQL, SIEM, and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Governance, Risk and Compliance (GRC)
+- IT Audit
+- Identity and Access Management (IAM)
+- Security Compliance
+- Information Security
+
+## Learning
+
+- Google Cybersecurity Professional Certificate
+- CompTIA Security+ — planned
+
+## Portfolio
+
+I'm currently building a practical cybersecurity portfolio with projects covering security auditing, risk assessment, access control, network security, Linux, SQL, and incident response.
+
+[View my Cybersecurity Portfolio](https://github.com/zsoltvarga-hu/cybersecurity-portfolio)
